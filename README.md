@@ -2,6 +2,4 @@
 
 Changing something
 
-Now editing on update_readme branch
-
-Update locally
+Updates made on master on GitHub before rebase
